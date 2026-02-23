@@ -1,8 +1,4 @@
 Olá, meu nome é Victor!
-================================
-
-Engenheiro de produção e analista de negócios
----------------------------------------------
 
 Atuo na interseção entre processos, dados e tecnologia. Experiência em análise de dados com SQL, Power BI e Excel, transformando informações operacionais em indicadores e melhorias mensuráveis. Foco em performance, qualidade de dados e otimização de processos.
 
