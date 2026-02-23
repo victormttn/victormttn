@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá, meu nome é Victor!
+================================
 
-<!--
-**victormttn/victormttn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de produção e analista de negócios
+---------------------------------------------
 
-Here are some ideas to get you started:
+Atuo na interseção entre processos, dados e tecnologia. Experiência em análise de dados com SQL, Power BI e Excel, transformando informações operacionais em indicadores e melhorias mensuráveis. Foco em performance, qualidade de dados e otimização de processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Brasil
+* ✉️  You can contact me at [victor.mattioni1@gmail.com](mailto:victor.mattioni1@gmail.com)
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+</p>
